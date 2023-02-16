@@ -1,5 +1,6 @@
 /**
  * This program demonstrates the use of Vector class in C++
+ * Author : Rahul Yadav
 */
 
 #include <iostream> 

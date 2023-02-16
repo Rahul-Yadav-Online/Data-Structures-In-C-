@@ -1,3 +1,9 @@
+/**
+ * This program demonstrates the use of Array class in C++
+ * Author : Rahul Yadav
+*/
+
+
 #include <iostream>
 
 int main(){
